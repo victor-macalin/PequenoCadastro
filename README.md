@@ -4,6 +4,7 @@ pessoas e listar todos as pessoas cadastrados.
  Tópicos a serem utilizados:
  
  Arrays: Para armazenar os nomes dos ninjas.
+ 
  Switch Cases: Para implementar um menu 
 interativo.
 
